@@ -1,0 +1,401 @@
+﻿Student_ID,Student_Name,Unity Academy,Class,Gender,Age,Subject,Term,Score,Attendance_Days,Enrollment_Year
+S1000,Maraynn Okafor,Community High School B,SS3,tOher,11,English,Ter3m,70,115,
+S1001,Aisha Bello,Rural Model School C,JSS2,Female,16,Math,Term2,70,,2018
+S1002,Emeka Obi,Unity Academy,JSS3,oTHER,11,English,Term2,66,22,2023
+S1003,Emeka Obi,Government Secondary School A,JSS2,Male,16,Science,Term3,85,47,
+S1004,Ngozi Eze,Government Secondary School A,SS2,Female,17,ICT,Term3,53,,2023
+S1005,Peter Ike,St. Mary's School,JSS2,Male,11,English,Term3,70,,2022
+S1006,Emeka Obi,Government Secondary School A,JSS1,Other,16,Science,Term2,85,104,
+S1007,Emeka Obi,Unity Academy,JSS2,Other,18,Math,tERM2,59,47,2018
+S1008,Fatima Sule,Unity Academy,JSS2,Other,18,Civic Education,Term1,85,,2022
+S1009,Fatima Sule,Community High Scohol B,JSS2, Male ,10,Scienec,Term2,,30,
+S1010,Fatima Sule, Community High School B ,SS1,oTHER,10,ICT,Term1,,,2019
+S1011,Emeka Obi,Government Secondary School A,ss2,Other,11,English,Term2,,61,2021
+S1012,Emeka Obi,St. Mary's School,SS3,Other,17,English,Term1,,47,2018
+S1013,Fatima Sule,Unity Academy, SS2 , Other ,,English,Term1,,,2020
+S1014,Chinedu Nwosu,Rural Model School C,SS1,Other,15,mATH,Temr1,85,,2020
+S1015,Aisha Bello,Unity Academy,SS2,Other,16,Civic Education,Term3,85,6,2020
+S1016,Emeka Obi,Rural Model School C,SS3,Other,10,Math,Trem2,53,,2022
+S1017,John Doe,Community High School B,JSS3,Male,10,Science,Term1,46,,2022
+S1018,Aisha Bello,Community High School B,JSS2,Male,15,ICT,Term3,54,53,
+S1019,Fatima Sule,St. Mary's School,JSS2,Other,15,Science,Term2,70,108,2018
+S1020,Emeka Obi, Rural Model School C ,JSS3,Other,,English,Term3,,,2018
+S1021,Ngozi Eze,Government Secondary School A,JSS3,Other,16,Science,Term1,68,,2021
+S1022,John Doe,Community High School B,SS2,Female,17,English,Term3,85,,2018
+S1023,Chinedu Nwosu,Community High School B,JSS2,Other,11,ICT,Term3,70,15,2023
+S1024,John Doe,Government Secondary School A,JSS2,Other,10,Civic Education,Term1,,,
+S1025,Fatima Sule,Unity Academy,SS2,Male,17,ICT,Term1,,40,2020
+S1026,Fatiam Sule,Rural Model School C, SS2 ,Female,13,Math,Term2,,,
+S1027,John Doe,Unity Academy,JSS1,Female,16,Civic Education,Term3,70,,2021
+S1028,John Doe,St. Mary's School,SS1,Other,16,Civic Education,Ter1m,,,2019
+S1029,Fatima Sule,St. Mary's School,SS1,Male,18,Math,Term2,,15,
+S1030,John Doe,Community High School B,SS3,Male,14,Science,Term3,34,79,2020
+S1031,Peter Ike,cOMMUNITY hIGH sCHOOL b,JSS1,Female,,Math,Term3,,94,2022
+S1032,Ngozi Eez,Government Secondary School A,JSS3,Female,16,English,Term3,70,,2020
+S1033,Chinedu Nwosu,Government Secondary School A,SS1,Female,16,ICT,Term2,70,,2020
+S1034,Emeka Obi,Rural Model School C,SS2,Male,16,ICT,Term1,70,,2019
+S1035,Peter Ike,Rural Model School C,JSS3,Other,18,Science,Term2,52,,2018
+S1036,Aisha Bello,St. Mary's School,SS2,Other,11,English,Term2,,56,2018
+S1037,Emeka Obi,Community High School B,SS1,Male,17,ICT,Term1,70,,2021
+S1038,Maryann Okafor,Government Secondary School A,SS2,Male,11,Civic Education,Term3,99,,2021
+S1039,Emeka Obi,St. Mary's School,ss2,Male,13,English,Term1,,49,2021
+S1040,Fatima Sule,St. Mary's School,JSS2,Female,17,Math,Term2,,65,2022
+S1041,Chinedu Nwosu,Rural Model School C,jss1,Other,17,Math,Term2,,,2018
+S1042,John Doe,Rural Model School C,jss1,Other,10,Science,Term1,85,,2023
+S1043,Fatima Sule,St. Mary's School,JSS3,Male,15,ICT,Term2,,44,2020
+S1044,Emeka Obi,St. Mary's School,JSS1,Other,10,English,Term3,70,,2022
+S1045,Aisha Bello,St. Mary's School,SS1,Other,13,English,Term1,31,54,2023
+S1046,Aisha Bello,Rural Model School C,JSS3,Female,13,ICT,Term2,,,
+S1047,Peter Ike,Unity Academy,JSS1,Female,,ICT,Term2,85,,2021
+S1048,Ngozi Eze,Community High School B,JSS2,fEMALE,16,ICT,Term3,,,
+S1049,Maryann Okafor, St. Mary's School ,JSS2,Other,11,ICT,Term2,,,2020
+S1050,Fatima Sule,Government Secondary School A,JSS2,Female,11,ICT,Term3,70,61,2018
+S1051,Ngozi Eze,Rural Model School C,SS1,Other,16,English,Term1,,31,2019
+S1052,Fatima Sule,St. Mary's School,JSS1,Female,16,Civic Education,Term2,85,,
+S1053,Emeka Obi,St. Mary's School,JSS1,Other,14, Science ,Term1,,18,2022
+S1054,Ngozi Eze,Community High School B,SS3,Other,12,Math, Term3 ,66,,2023
+S1055,Peter Ike,Community High School B,JSS3,Female,14,ICT,Term2,,4,
+S1056,Chinedu Nwosu,St. Mary's School,SS2, Female ,16,Science,Term3,33,,2022
+S1057,Chinedu Nwosu,St. Mary's School,JSS3,Male,10,Science, Term1 ,85,26,2021
+S1058,Maryann Okafor,Unity Academy,JSS3,Female,15,Math,Term2,,17,2018
+S1059,Fatima Suel,Govenrment Secondary School A,SS2,Other,13,English,Term1,,9,2022
+S1060,Emeka Obi,Government Secondary School A,JSS1,Female,13,Civic Education,Term1,70,107,2021
+S1061,Fatima Sule,Unity Academy,SS1,oTHER,18,Science,Ter1m,,102,2018
+S1062,Ngozi Eze,Government Secondary School A,SS2,Other,16,Civic Education,Term2,,35,2021
+S1063,Fatima Sule,St. Mary's School,SS1,Otehr,15,English, Term2 ,85,56,2022
+S1064,Ngozi Eze,St. Mary's School,SS3,Female,10,Science,Term2,84,30,
+S1065,Maryann Okafor,Unity Academy,JSS3,Female,,Civic Education,tERM3,,,2020
+S1066,nGOZI eZE,sT. mARY'S sCHOOL,JSS1,Male,17,Science,Term2,,3,2019
+S1067,John Doe,Rural Model School C,SS1,Female,13,Civic Education,Term2,70,107,2019
+S1068,Peter Ike,Governemnt Secondary School A,JSS2,Female,10,ICT,Term1,88,,2018
+S1069,Peter Ike,Government Secondary School A,SS1,Female,,ICT,Term2,,,
+S1070, Ngozi Eze ,Unity Academy,JSS1,Female,13,Science,Term1,,,2020
+S1071,Aisha Bello,Community High School B,JSS2,oTHER,17,Civic Education,Term2,,,2019
+S1072,Fatiam Sule,Rural Model School C,JSS3,Female,10,Math,tERM2,,,2022
+S1073,John Doe,Unity Academy,JSS3,Other,10,ICT,Term2,,2,2023
+S1074,Fatima Sule,Unity Academy,JSS2,Female,15, Civic Education , Term2 ,97,5,2020
+S1075,Emeka Obi,St. Mary's School,SS3,Female,16,Science,Term3,,,2018
+S1076,Ngozi Eze,Community High School B,SS1,Male,14,Math,Term3,,39,2022
+S1077,Peter Ike,Community High School B,SS2,Male,10,ICT,Term3,,28,2022
+S1078,Chinedu Nwosu,St. Mary's School,JSS2,Other,17,Science,Term3,40,,2018
+S1079,Fatima Sule,Unity Academy,SS3,Male,12,Science,Term3,,,2018
+S1080, Peter Ike ,Government Secondary School A,JSS1,Male,16,Science, Term1 ,70,97,2018
+S1081,John Doe,Community High School B,SS3,Female,14,English,Term1,70,,2022
+S1082,John Doe,Unity Academy,JSS2,Male,13,Civic Education,Term3,85,48,2021
+S1083,Fatim aSule,Rural Model School C,JSS3,Female,16,Math,Term3,,,
+S1084,Aisha Bello,St. Mary's School,SS1, Male ,14,nEglish,Term2,70,,2018
+S1085,Chinedu Nwosu,Government Secondary School A,JSS3,Female,16,ICT,Term2,70,,
+S1086,Maryann Okafor,Government Secondary School A,JSS2,Female,15,Science,Term3,70,84,2023
+S1087,Ngozi Eze,St. Mary's School, JSS1 ,Other,10,English,Term3,24,,2020
+S1088,Peter Ike,Government Secondary School A,SS3,Female,11,Civic Education,Term2,55,1,2021
+S1089,Peter Ike,Government Secondary School A,JSS3,Male,14,ICT,Term1,77,,2023
+S1090,Ngozi Eze,Unity Academy,JSS3,Other,16,English,Term3,45,70,2020
+S1091,Ngozi Eze,Unity Academy,JS1S,Other,16,ICT,Term1,,,2019
+S1092,Aisha Bello,Community High School B,JSS1,Other,12,English,Term3,85,16,2023
+S1093,Emeka Obi,Rural Model School C,JSS1,Male,,English,Term3,85,112,2018
+S1094,John Doe,Unity Academy,JSS2,Female,10,ICT,Term3,70,,2021
+S1095,Maryann Okafor,Community High School B,SS1,Female,15,Science,Term2,85,105,2020
+S1096,Chinedu Nwosu,Rural Model School C,JSS2,Other,12,Science,Term3,70,,2020
+S1097,fATIMA sULE,Community High School B,JS3S,Other,14,Ciivc Education,Term2,85,45,2022
+S1098,Chinedu Nwosu,rURAL mODEL sCHOOL c,JSS3,Other,11,English,Term2,,9,2022
+S1099,Peter Ike,gOVERNMENT sECONDARY sCHOOL a,SS2,Other,12,Science,Term2,85,,2023
+S1100,Emeka Obi,Government Secondary School A,SS3,Female,16,Math,Term2,,,2019
+S1101,Peter Ike, Community High School B ,JSS1,Female,13,ICT,Term3,27,,2023
+S1102,Fatima Sule,Rural Model School C,SS1,Female,16,Science,Term1,,,
+S1103,Emeka Obi,St. Mary's School,JSS3,Other,11,Civic Education,Term2,85,58,2020
+S1104,Maryann Okafor,St. Mary's School,SS3,Male,14,Civic Education,Term1,95,3,2023
+S1105,Chinedu Nwous,St. Mary's School,jss2,Female,17,ICT,Term2,,113,2019
+S1106,Peter Ike,Community High School B,JSS1,Female,12,Science,Term1,,,2023
+S1107,Fatima Sule,Community High School B,SS1,Male,17,Science,Term1,,,
+S1108,Peter Ike,Government Secondary School A,JSS1,Male,13,Math,Term1,85,78,2020
+S1109,Ngozi Eze,Government Secondary School A,SS1,Female,14,Math,Term2,48,30,2021
+S1110,Ngozi Eze,Unity Academy,SS2,Male,16,Civic Education,Term1,85,49,2018
+S1111,Chinedu Nwosu,Community High School B,SS2,Other,,ict,Term1,70,98,2022
+S1112,Fatima Sule,Rural Model School C,SS1,Male,,aMth,Term3,70,,2019
+S1113,Aisha Bello,St. Mary's School,SS1,Female,16,Civic Education,Term2,70,8,
+S1114,John Doe,Rural Model School C,SS3,Other,13,English,Term1,,93,2019
+S1115, Chinedu Nwosu ,Government Secondary School A,JSS1,Male,10,English,Term2,85,,2019
+S1116,Emeka Obi,Unity Academy,JSS3,Other,12,ICT,Term1,,,2019
+S1117,Emeka Obi,Unity Academy,JSS2,Other,17,Math,Term2,70,16,2020
+S1118,Maryann Okafor, Rural Model School C ,JSS3,Other,11,English,Term3,91,,2020
+S1119,John Doe,Community High School B,JSS1,Female,,English,Term1,70,,2020
+S1120,Emeka Obi,St. Mary's School,SS3,Female,15,Science,Term3,,,2020
+S1121,Aisha Bello,Community High School B,JSS2,Other,15,Science,Term2,70,22,2019
+S1122,Fatima Sule,Unity Academy,JSS1,Male,16,Math,Term2,100,48,2019
+S1123,Fatima Sule,Unity Academy,SS2,Other,10,Civic Education,tERM1,,27,2018
+S1124,Maryann Okafor,Community High School B,SS2,Female,16,Math,Term2,51,78,2018
+S1125,Peter Ike,Unity Academy, SS3 ,Female,16,Science,Term1,25,,2020
+S1126,John Doe,Rural Model School C,SS2,Male,15,Math,Term3,,10,2022
+S1127,Peter Ike,Unity Academy,SS3,Other,18,cSience,Term2,,90,2023
+S1128,Emeka Obi,St. Mary's School,JSS3,Female,16,Civic Education,Term1,57,,2019
+S1129,Peter Ike,Community High School B,JSS3,Mlae,14,Math,Term1,,105,2018
+S1130,Maryann Okafor,Government Secondary School A,JSS3,Male,16,Math,Term3,,,2019
+S1131,Aisha Bello,Rural Model School C,JSS1,Female,17,Math,Term1,,,2018
+S1132,Aisha Bello,St. Mary's School,SS2,Female,16,Civic Education,Term2,70,,2020
+S1133,Emeka Obi,St. Mary's School,JSS2,Female,16,Science,Term3,89,,2023
+S1134,Chinedu Nwosu,Rural Model School C,JSS1,Female,12,Science,Term3,70,,2022
+S1135,Peter Ike,St. Mary's School,JSS3,Other,11,Math,Term3,,,
+S1136,Ngozi Eze,St. Mary's School,JSS1,Other,18,Civic Education,Term1,70,32,2020
+S1137,John Doe,Rural Model School C,JSS1,Other,14,Science,Term1,70,,2020
+S1138,Maryann Okafor,Govrenment Secondary School A,SS3,Other,12,Civic Education,Term3,79,40,2019
+S1139,Peter Ike,Unity Academy,SS1,Feamle,11,Civic Education,Term3,61,,2023
+S1140,Fatima Sule,Rural Model School C,SS2,Male,17,Civic Education,Term3,,5,2020
+S1141,Maryann Okafor,Government Secondary School A,SS3,Female,12,Civic Education,Term1,88,,2020
+S1142,Aisha Bello,St. Mary's School,JSS3,Female,16,Civic Education,Term2,70,31,2018
+S1143,John Doe,Community High School B,JSS3,Female,17,Civic Education,Term2,,,2022
+S1144,John Doe,St. Mary's School,SS1,Other,14,Math,Term2,70,15,
+S1145,Ngozi Eze,Unity Academy,JSS2,Male,10,Civic Education,Term2,85,,
+S1146,Maryann Okafor,St. Mary's School,JSS3,Male,12,English,Term2,70,,2023
+S1147,Peter Ike,Government Secondary School A,JSS1,Other,15,ICT,Term2,70,,2019
+S1148,Peter Ike,St. Mary's School,JSS3,Other,17,Science,tERM1,,,2018
+S1149,Peter Ike,Community High School B,JSS3,eFmale,15,eNGLISH,Term1,,,2018
+S1150,Aisha Bello,Unity Academy,SJS1,Female,17,Math,Term1,,,2019
+S1151,Peter Ike,Community High School B,SS3,Other,,English,Term3,70,28,2018
+S1152,Maryann Okafor,Government Secondary School A,SS1,Female,12,English,Term1,,117,
+S1153,Emeka Obi,Unity Academy,SS3,oTHER,17,ICT,Term2,,,2019
+S1154,Peter Ike,Unity Academy,SS2,Female,11,Math,Term1,,,2023
+S1155,Peter Ike,sT. mARY'S sCHOOL,SJS3,Male,16,Civic Education,Term3,85,95,2019
+S1156,Maryann Okafor,Government Secondary School A,ss2,Other,11,Math,Temr3,,,2019
+S1157,Emeka Obi,Government Secondary School A,JSS1,Female,11,Science,Term3,70,105,2021
+S1158,Aisha Bello,Rural Model School C,SS2,Male,18, Math ,Term2,39,,2019
+S1159,Ngozi Eze,Rural Model School C,JSS1,Male,10,English,Term3,,,2020
+S1160,Maryann Okafor,Government Secondary School A,JSS3,Female,13,ICT,Term2,,71,2021
+S1161,John Doe,Rural Model School C,SS3,fEMALE,14,Math,Term1,27,75,2019
+S1162,Peter Ike,Rural Model School C, SS3 ,Male,16,Math,Term1,36,,
+S1163,Peter Ike,Rural Model School C,JSS3,Male,,Math,Term1,70,,
+S1164,Chinedu Nwosu,St. Mary's School, JSS1 ,Other,10,English,Term2,85,90,2023
+S1165,Emeka Obi,Community HighS chool B,SS2,aMle,11, Math ,Term1,,,
+S1166,Maryann Okfaor,St. Mary's School,JSS1,Female,17,Math,Term3,70,,2019
+S1167,Ngozi Eze,Community High School B,SS1,Male,,English,Term2,70,,2021
+S1168,Aisha Bello,Unity Academy,SS2,Female,15,ICT,Term2,,,2019
+S1169,John Doe, Community High School B ,SS1,Other,12,Math,Term1,27,,
+S1170,Aisha Bello,Unity Academy,SS3,oTHER,,English,Term1,,,2018
+S1171, Maryann Okafor , St. Mary's School ,JSS2,Male,15,mATH,Term1,,87,2020
+S1172,Emeka Obi,Community High School B,SS1,Female,12,Civic Education,Term3,,,2023
+S1173,Emeka Obi,Government Secondary School A,SS2,oTHER,,English,Term1,85,,2020
+S1174,Aisha Bello,Government Secondary School A,SS3,Female,14,English,Term1,,,2023
+S1175,Peter Ike,St. Mary's School,SS1,Female,17,Civic Education,Term3,,44,2020
+S1176,Emeka Obi,Government Secondary School A,SS1,Male,11,Science,Term3,70,,2019
+S1177,John Doe,Community High School B,SS1,Other,18,Science,Term2,70,,2019
+S1178,John Doe,sT. mARY'S sCHOOL,SS1,Male,16,Science,Term2,70,,2018
+S1179,Peter Ike,St. Mary's School, SS1 ,Female,14,cIVIC eDUCATION,Term1,70,115,
+S1180,Peter Ike,St. Mary's School,SS3,Female,13,ICT,Term2,,33,2018
+S1181,Fatima Sule,Community High School B,JSS2, Female ,16,English,Term2,,,2022
+S1182,Ngozi Eze,Unity Academy,JSS1,Other,16,Math,Term1,,53,
+S1183,Emeka Obi,Rural Model School C,JSS3,Female,17,Math,Term2,70,,2023
+S1184,Chindeu Nwosu, Rural Model School C ,JSS3,Other,13,English,Term3,85,93,2019
+S1185,Fatima Sule,St. Mary's School,SS2,Male,12,Math,Term3,,11,
+S1186,Chinedu Nwosu,Community Hgih School B,SS3,Female,18,ICT,Term1,85,,2019
+S1187,Fatima Sule,Rural Model School C,JSS3,tOher,12,Civic Education,Term1,48,74,
+S1188,John Doe,Community High School B,SS2,Male,14,Science,Term2,85,,2023
+S1189,Peter Ike,Government Secondary School A,SS3,Female,,Civic Education,Term3,85,,
+S1190,Emeka Obi,Rural Model School C,SS2,Male,,ICT,Term3,70,,2021
+S1191,Peter Ike,Unity Academy,SS2,Female,13,Civic Education,Term2,,10,2020
+S1192,Maryann Okafor,Rural Model School C,SS2,Male,15,Math,Term1,70,,2022
+S1193,Emeka Obi,Government Secondary School A,SS3,oTHER,16,ICT, Term2 ,85,,2019
+S1194,Ngozi Eze,Community High School B,SS1,Male,10,Math,Term1,,60,2019
+S1195,Peter Ike,St. Mary's School,SS1,Male,15,Math,Term3,20,,2019
+S1196,Maryann Okafor,Unity Academy,JSS1,Female,17,Civic Education,Term2,85,22,2019
+S1197,Peetr Ike,Community High School B,SS2,Male,16,Math,Term3,,46,2023
+S1198,Maryann Okafor,Government Secnodary School A,SS1,Female,12,English,eTrm3,85,38,2021
+S1199,Maryann Okafor,Unity Academy,JSS1,Female,13,Science,Term1,85,,2019
+S1200,Fatima Sule,Govrenment Secondary School A,SS2,Male,18,Math,Term1,70,,2018
+S1201,Maryann Okafor,Government Secondary School A,JSS3,Female,11,Math,Trem1,85,,2023
+S1202,Maryann Okafor,Rural Model School C,SS1,Female,16,ICT,Term3,,3,2018
+S1203,Peter Ike,St. Mary's School,SS3,Other,15,cIVIC eDUCATION,Term1,,92,2018
+S1204,Emeka Obi,Government Secondary School A,SS3,Other,,English,Term3,,,2023
+S1205,Chinedu Nwosu,St. Mary's School,SS2, Other ,17,ICT,Term1,61,82,2022
+S1206,Chinedu Nwosu,St. Mary's School,JS2S,Feamle,11,ICT,Term1,,111,
+S1207,Maryann Okafor,Unity Academy,SS2,Other,15,Science,Term1,,,2023
+S1208,Ngozi Eze, Government Secondary School A ,JSS3,Female,15,aMth,Term3,,39,2019
+S1209,Maryann Okafor,St. Mary's School,JSS2,Male,10,Civic Education,Term2,,57,2022
+S1210,John Doe,St. Mary's School,SS1,Male,12,English,Term3,,26,2020
+S1211,Peter Ike,Rural Model School C,JSS2,Other,18,Science,Term3,90,,2023
+S1212,Ngozi Eze,Community High School B,SS3,Male,16,Science,Term2,,,
+S1213,Peter Ike,Unity Academy,SS1,Ohter,14,Science,Term1,57,,
+S1214,Fatima Sule,Unity Academy,SS3,Female,14,Math,Term2,,,2019
+S1215,Fatima Sule,Rural Model School C,SS2,Male,13,Science,tERM3,70,,2022
+S1216,Emeka Obi,Unity Academy,JSS1,Other,10,English,tERM3,70,,2018
+S1217,Ngozi Eze,Community High School B,SS2,Other,11,Science,Term1,85,,2022
+S1218,John Doe,Rural Model School C,SS3,Other,10,Science,Term1,85,,2022
+S1219,Fatima Sule,Rural Model School C,JSS2,Male,12,Civic Education,tERM3,,,2023
+S1220,Maryann Okafor, Community High School B ,jss1,Other,14,ICT,Term3,,89,2023
+S1221,Maryann Okafor, Unity Academy ,SS2,Other,11,Science,Term2,70,34,2019
+S1222,Peter Ike,Unity Academy,SS3,Other,16,Science,Term1,91,55,2022
+S1223,Peter Ike,Government Secondary School A,SS3,Other,16,Civic Education,Term1,52,54,
+S1224,Fatima Sule,Government Secondary School A,JSS1,Male,17,Science,Term3,85,4,2020
+S1225,Fatima Sule,Unity Academy,SS3,Other,15,ICT,Term2,70,23,2023
+S1226,Ngozi Eze,St. Mary's School,JSS3,Male,,Math,Term1,85,120,2018
+S1227,John Doe,Unity Academy,SS2,Male,18,Civic Education,Term1,,,2022
+S1228,Maryann Okafor,Unity Acaedmy,SS3,Other,12,English,Term3,70,2,
+S1229,Fatima Sule,Rural Model School C,JSS1,Other,15,ICT,Term2,85,,
+S1230,Emeka Obi,Unity Academy,SS3,Other,11,Civic Education,Term1,85,102,2022
+S1231,Aisha Bello, Community High School B ,JSS2,Other,11,English,Term2,70,13,2023
+S1232,Peetr Ike,Community High School B,JSS1,aMle,18,ICT,Term3,,,
+S1233,Fatima Sule,St. Mary's School,SS2,Male,18,Science,Term3,,4,2021
+S1234,Peter Ike,Government Secondary School A,SS2,Male,12,ICT,tERM3,,101,
+S1235,Peter Ike,Rural Model School C,SS3,Male,17,ICT,Term3,,,2021
+S1236,Chinedu Nwosu,Government Secondary School A,SS2, Male ,18,Math,Term2,70,6,2021
+S1237,Emeka Obi,Unity Academy,JSS3,Other,13,ICT,Term3,,,2020
+S1238,Ngozi Eze,St. Mary's School,SS3,Male,12,Math,Term2,,,2023
+S1239,John Doe,Community High School B,SS2,Male,15,Math,Term3,,106,
+S1240,Aisha Bello,sT. mARY'S sCHOOL,SS2,Male,18,Civic Education,Term3,85,0,2018
+S1241,Emeka Obi,Rural Model School C,SS1,oTHER,18,Science,Term3,85,14,2021
+S1242,Peter Ike,Rural Model School C,SS2,Male,15,Math,Term2,85,,
+S1243,Chinedu Nwosu,St. Mary's School,SS2,Female,11,ICT,Term1,85,92,2023
+S1244,Emeka Obi,Government Secondary School A,SS3,Male,12,ICT,Term1,54,31,2019
+S1245,Chinedu Nwosu,Community High School B,JSS2,Female,11,Math,Term3,,40,
+S1246,Fatima Sule,Rural Model School C,SS2,Female,18,Science,Term3,70,101,2022
+S1247,Ngozi Eze,Community High School B,JSS1,Female,10,Math,Term2,85,16,2022
+S1248,Emeka Obi,St. Mary's School,JSS3,Female,16,Science,Term2,,36,
+S1249,Maryann Okafor,Community High School B,SS1,Other,10,English,Term1,,,2020
+S1250,Emeka Obi,Untiy Academy,JSS1,Female,16,Math,Term2,,,2018
+S1251,Peter Ike,Unity Academy,SS2,Other,14,Science,Term3,,,2021
+S1252,Aisha Bello,Rural Model School C,SS2,Mlae,15,Science,Term3,70,,2021
+S1253,Aisha Bello,Government Secondary School A,JSS2,Other,11,English, Term1 ,,90,2018
+S1254,Emeka Obi,Government Secondary School A,SS1,Male,17,English,tERM1,70,,2022
+S1255,Fatima Sule,Unity Academy,SS2,Other,,ICT,Term3,70,109,2021
+S1256,Emeka Obi,Rural Model School C,jss1,Female,18,Math,Term2,85,,2022
+S1257,Chinedu Nwosu,Unity Academy,SS1,Female,12,ICT,Term1,74,,2020
+S1258,Emeka Obi,Government Secondary School A,JSS3,Female,14,Civic Education,eTrm2,,17,2023
+S1259,Fatima Sule,Communtiy High School B,JSS3,Female,17,Math, Term1 ,80,,
+S1260,John Doe,Community High School B,SS1,Male,11,Civic Education,Term1,85,60,2023
+S1261,Maryann Okafor,Rural Model School C,JSS1,Male,13,ICT,Term1,,90,2018
+S1262,Fatima Sule,Community High School B,JSS1,fEMALE,16,mATH,Term1,85,,2023
+S1263,Chinedu Nwous,Community High School B,JSS1,Female,18,ICT,Term1,70,38,2018
+S1264,Aisha Bello,Rural Model School C,ss1,Female,10,Civic Education,Term3,,,
+S1265,Aisha Bello,Rural Model School C,JSS3,Other,10,English,Term1,82,,2023
+S1266,Fatima Sule,Unity Academy,JSS3, Other ,17,Math,tERM3,85,,2022
+S1267,John Doe,Rural Model Scholo C,JSS1,Male,13,English,Term1,,111,
+S1268,Ngozi Eze,St. Mary's School,JSS2,Other,15,English,Term3,85,,2021
+S1269,Peter Ike,Rural Model School C,SS2,Female,14,Science,Term2,,76,2022
+S1270,Aisha Bello, Rural Model School C ,jss3,Female,18,Civic Education,Term3,70,9,2020
+S1271,Ngozi Eze,Community High School B,SJS3,Othre,12,ICT,Term3,,,2018
+S1272,John Doe,Rural Model School C,SS1,Male,13,Civic Education,Term3,,79,2020
+S1273,Aisha Bello,Community High School B,SS3,Female,,Civic Education,Term1,70,56,2021
+S1274,John Doe,rURAL mODEL sCHOOL c,JSS2,Female,17,ICT,Term1,87,,
+S1275,Peter Ike, Unity Academy ,JSS3,Female,10,Science,Term2,,58,
+S1276,Chinedu Nwosu,Rural Model School C,SS3,Male,13,Civic Education, Term2 ,70,21,2023
+S1277,Chinedu Nwosu,Unity Academy,SS2,Other,16,Math,Term3,52,18,
+S1278, Emeka Obi ,St. Mary's School,SS3,Other,11,Math,Term3,,,
+S1279,Maryann Okafor,Unity Academy,SS2, Male ,17,ICT,Term1,85,19,2022
+S1280,Emeka Obi,Rural Model School C,JSS1,Female,15,ICT,Term1,,,2019
+S1281,Aisha Bello,Rural Model School C,JSS3,Male,12,Civic Education,Term1,,27,2023
+S1282,Aisha Bello,Unity Academy,SS3,Female,12,Math,Term2,70,9,2018
+S1283,Aisha Bello,Unity Academy,SS2,Male,13,Math,Term3,,,2019
+S1284,Peter Ike,Community High School B, JSS2 ,Female,13,English,Term1,,,2019
+S1285,Peter Ike,Government Secondary School A,SS1,Female,,Civic Education,Term3,,,
+S1286,John Doe,Community High School B,SS1,Male,18,Math,Term2,85,,2020
+S1287,John Doe,Community High School B,SS3,Other,12,Civic Education,Term3,70,81,2019
+S1288,Fatima Sule,Community High School B,JSS1,Other,12,mATH,Term1,,,2022
+S1289,PeterI ke,Unity Academy,JSS2,Male,10,ICT,Term3,85,120,2019
+S1290, Chinedu Nwosu ,St. Mary's School,SS2,Other,13,English,Term2,,116,2019
+S1291,Emeka Obi,Unity Academy,JS2S,fEMALE,,Science,Trem1,85,38,2021
+S1292,Ngozi Eze,Government Secondary School A,JSS3,Female,16,Cviic Education,Term3,,33,2023
+S1293,Chinedu Nwosu,Government Secondary School A,SS3,Male,,Science,Term2,,,2022
+S1294,Fatima Sule,Community High School B,JSS2,Mael,11,English,Term2,85,40,2018
+S1295,Chinedu Nwosu,Rural Model School C,JSS3,Other,10,Math,Term2,,11,2020
+S1296,Ngozi Eze,St. Mary's School,JSS1,Female,17,Civic Education,Term2,,,2022
+S1297,John Doe,Rural Model School C,SJS3,Female,16,Civic Education,Term3,,,2023
+S1298,John Doe,Government Secondary School A,JSS2,Female,14,English,Term1,70,,2022
+S1299,Aisha Bello,St. Mary's School,SS2,Female,11,Civic Education,Term1,70,89,2018
+S1300,Emeka Obi,Unity Academy,JSS3,Male,16,sCIENCE,Term1,85,,
+S1301,Fatima Sule,Rural Model School C,JSS3,Other,11,English,Term3,85,15,2018
+S1302,Emeka Obi,Rural Model School C,JSS1,Female,10,Math,Term1,,,2022
+S1303,Ngozi Eze,Community High School B,SS3,Male,17,Civic Education,Term3,85,30,2019
+S1304,Aisha Bello,Unity Academy,JSS3,Other,15,Science,Ter1m,79,22,2022
+S1305,Maryann Okafor,Government Secondary School A, SS3 ,Female,16,English,Term3,70,21,
+S1306,Peter Ike,St. Mary's School,JSS3,Male,16,Math,Term3,,,2020
+S1307,Maryann Okafor,Community High School B, SS1 ,Other,16,Science,Trem3,,,2022
+S1308,Emeka Obi,Unity Academy,JSS2,Female,16,Science,Term2,,,
+S1309,Aisha Bello,Government Secondary School A,SS2,Male,15,Math,Term1,70,,2021
+S1310,Peter Ike,Community High School B,SS1,Other,15,ICT,Term3,,,2023
+S1311,Peter Ike, Community High School B ,SS1,Other,16,Civic Education,Term3,70,14,2021
+S1312,John Doe,Community High School B,JSS3,Other,10,Math,Term3,70,,2021
+S1313,Maryann Okafor,Unity Acadeym,SS3,Male,18,Civic Education,Term1,,,2022
+S1314,Ngozi Eze,Rural Model School C,JSS1,Other,,Sicence,tERM3,,76,2019
+S1315,Maryann Okafor,Rural Model School C,SS2,Fmeale,,English,Term2,53,102,2020
+S1316,Maryann Okafor,Unity Academy,JSS2,Female,13,ICT,Term1,,73,2019
+S1317,Fatima Sule,Rural Model School C,SS2,Other,17,Science, Term2 ,,,
+S1318,Peter Ike,Rural Model School C,JSS3,Female,16,ICT,Term3,95,21,2020
+S1319,John Doe,Govrenment Secondary School A,SS3,Male,14, English ,Term3,,55,
+S1320,Aisha Bello,Unity Academy,JSS2,Other,14,ICT,Term1,70,16,
+S1321,Maryann Okafor,Government Secondary School A,JSS3,Female,14,English,Term2,,,2018
+S1322,Aisha Bello,St. Mary's School,SS3,Female,11, Math ,eTrm2,70,,2021
+S1323,John Doe,St. Mary's School,SS1,Male,10,ICT,Term2,85,,2018
+S1324,Maryann Okafor,Rural Modle School C,SS3,Ohter,14,ICT,Term3,,28,2019
+S1325,John Doe,Unity Academy,ss1,Female,17,Maht,Term1,,34,2023
+S1326,Chinedu Nwosu,Government Secondary School A,SS1,Female,,Math,Term3,,,2022
+S1327,Aisha Bello,Government Secondary School A,JSS1,Other,13,Math,Term2,85,36,2020
+S1328,Chinedu Nwosu,Unity Academy,JSS1,Male,12,Science,Term2,,,
+S1329,iAsha Bello,Government Secondary School A,JSS1,Other,16,ICT,Term1,,26,2019
+S1330,John Doe,St. Mary's School,JSS1,Female,10,Civic Education,Term1,,34,2021
+S1331,Chinedu Nwosu,Community High School B,JSS2,Female,12,aMth,Term2,70,45,2022
+S1332,Aisha Bello,Government Secondary School A,JSS1,Other,16,English,Term2,85,6,2023
+S1333,Peter Ike,St. Mary's School,JSS1,Fmeale,,ICT,Term2,85,,2019
+S1334,John Doe,Government Secondary School A,JSS1,Female,15,English,Term3,98,35,2018
+S1335,Peter Ike,St. Mary's School,JSS2,Female,16,English,Term2,95,,2018
+S1336,John Doe, Unity Academy ,SS3,Female,11,Civic Education,Term3,47,18,2023
+S1337, Maryann Okafor ,St. Mary's School,SS3,Female,12,ICT,Term2,,89,2020
+S1338,Peter Ike,Unity Academy,JSS2,Male,15,Math,Term3,,,2022
+S1339,John Doe,Community High School B,ss3,Male,15,English,Term3,94,,2020
+S1340,Peter Ike,Government Secondary School A,SS1,Other,17,Civic Education,Term3,,4,2021
+S1341, Maryann Okafor ,Government Secondary School A,JSS3,Male,13,Civic Education,Term1,89,,2021
+S1342,John Doe,gOVERNMENT sECONDARY sCHOOL a,SS2,Female,16,Science,Term3,70,19,
+S1343,Emeka Obi,Rural Model School C,JSS3,Male,14,ICT,Term3,85,11,2019
+S1344,Chinedu Nwosu,Rural Model School C,SS1,Male,10,Science,Term1,89,108,2018
+S1345,Peter Ike,Community High School B,JSS3,Other,18,Science,Term2,,,2020
+S1346,Maryann Okafor,Government Secondary School A,SS2,Male,13,ICT,tERM2,85,65,2022
+S1347,Fatima Sule,Government Secondary School A,SS1,Female,18,Math,Term2,85,89,2020
+S1348,Ngozi Eze,St. Mary's School,JSS1,Female,16,ICT,Term3,70,57,2019
+S1349,Chinedu Nwosu,Unity Academy,JSS1,Other,11,Math,Term2,70,8,2019
+S1350,Peter Ike,sT. mARY'S sCHOOL,JSS3,Other,10,Math,Term2,,26,2021
+S1351, Chinedu Nwosu ,Government Secondary School A,JSS3,Other,14,ICT,Term1,,73,2019
+S1352,Ngozi Eze,Community High School B,JSS1,Female,15,Math,Term3,,40,
+S1353,Maryann Okafor,Community High School B,JSS3,Other,14,sCIENCE,Term1,85,,2019
+S1354,Maryann Okafor,Unity Academy,JSS2,Other,18,Civic Education,Term3,70,98,
+S1355,Aisha Bello,St. Mary's School,SS3,Female,,Civic Education,Term2,,14,
+S1356,Aisha Bello,Rural Model School C,JSS2,Female,11,Mtah,Term1,,,2018
+S1357,mEeka Obi,Government Secondary School A,SS2,Male,15,mATH,Term3,,118,2018
+S1358,John Doe,Community High School B,JSS2,oTHER,18,ICT,Term3,33,,2019
+S1359,Chinedu Nwosu,Rural Model School C,JSS1,Female,14,Civic Education,Term1,70,,2023
+S1360,Fatima Sule,St. Mary's School,SS1,Male,17,Science,Term3,70,96,2018
+S1361,Aisha Bello,Unity Academy,SS3, Male ,,ICT,Term2,,,2020
+S1362,Fatima Sule,St. Mary's School,SS2,Female,14,ICT,Term3,,,2023
+S1363,John Doe,St. Mary's School,JSS3,Other,11,Civic Education,Term2,70,,
+S1364,John Doe,Government Secondary School A,JSS1,Female,17, ICT ,Term3,58,27,2020
+S1365,Peter Ike,Government Secondary School A,SS1,Other,17,ICT,Term1,85,,2022
+S1366,Ngozi Eze,Rural Model School C,JSS1,Male,15, Civic Education ,Term1,70,3,2019
+S1367,Chinedu Nwosu,uNITY aCADEMY,JSS1,Male,10,ICT,Term2,85,42,2020
+S1368,Peter Ike,Rural Model School C,SS1,Other,17,Civic Education,Term3,85,27,2021
+S1369,Maryann Okafor,Unity Academy, JSS3 ,Male,11,Cviic Education,Term3,70,66,2023
+S1370,Emeka Obi,Rural Model School C,SS2,Female,,Civic Education,Term3,,,2019
+S1371,Fatima Sule,Unity Academy,SS1,Other,18,English,Term1,70,92,2023
+S1372,Chinedu Nwosu,Rural Model School C,SS3,Other,16,English, Term1 ,,95,2019
+S1373,Aisha Bello,Government Secondary School A,JSS3,Male,10,ICT,Term1,85,117,2021
+S1374,Ngozi Eze,Government Secondary School A,SS3,Male,18,Math,Term3,85,5,2022
+S1375,Maryann Okafor,Rural Model School C,SS2,Other,16,English,Term1,70,92,2021
+S1376,Ngozi Eze,Government Secondary School A,SS1,Male,12,Science,Term2,,3,2020
+S1377,Peter Ike,Rural Model School C,SS3,Male,16,Math,Term2,85,,2019
+S1378,Aisha Bello,Rural Model School C,SS3,Male,11,ICT,Term2,70,,2022
+S1379,Maryann Okafor,Unity Academy,SS2,Female,10,English,Term3,71,,2022
+S1380,Maryann Okafor,Community High School B,SS3,Other,15,ICT,Term3,,18,2018
+S1381,Peter Ike,St. Mary's School,SS2,Male,16,Civic Education,Term1,85,,2022
+S1382,Peter Ike,Community High School B,jss1,Female,17,Math,Term1,85,24,2021
+S1383,Chinedu Nwosu,Rural Model School C,JSS2,Female,10,Science,Term1,85,114,2018
+S1384,Fatima Sule,Rural Model School C,SS1,Other,16,Civic Education,Term1,85,,2022
+S1385, John Doe ,St. Mary's School,JSS2,Ohter,18,ICT,Term2,,,2018
+S1386,Ngoz iEze,Rural Model School C,JSS3,Female,14,Civic Education,Term1,82,,2018
+S1387,Chinedu Nwosu,Community High School B,SS1,Other,11, ICT ,Term3,70,54,2020
+S1388,Maryann Okafor,Rural Model School C,JSS2,Female,16,Civic Education,Term1,93,4,
+S1389,Fatima Sule,rURAL mODEL sCHOOL c,SS1,Male,12,mATH,Term2,,40,2023
+S1390,Fatima Sule,Unity Academy,JSS1,Female,10,Math,Term3,85,,2018
+S1391,John Doe,Community High School B,SS1,Other,14,ICT,Term3,,56,
+S1392,Ngozi Eze,St. Mary's School,SS1,Other,11,ICT,Term3,70,,2021
+S1393,Chinedu Nwosu,Community High School B,SS2,tOher,17,Science,Term1,58,,2022
+S1394,John Doe,Government Secondary School A,SS2,Male,,Science, Term3 ,79,63,2018
+S1395,Peter Ike,Rural Model School C,SS3,Other,14,Science,Term1,,,2022
+S1396,Jhon Doe,St. Mary's School,SS1,Other,17,Science,Term3,85,8,2018
+S1397,Chinedu Nwosu,Government Secondary School A,JSS2,Male,12,English,Term3,88,,2019
+S1398,Fatima Sule,Government Secondary School A,JSS2,Female,17,Math,Term3,,,2018
+S1399,Maryann Okafor,St. Mary's School,SS1,Other,14,Math,Term2,70,69,2021
